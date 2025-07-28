@@ -1,14 +1,7 @@
 '''
-copyright @ Karthikeya S Parunandi - karthikeyasharma91@gmail.com
-Python class for model free DDP method.
+copyright @ Aayushman Sharma - aayushmansharma@tamu.edu
 
-Date: July 6, 2019
-
-ASSUMPTIONS :
-
-1) Costs are quadratic functions
-2) Default is set to ILQR - by dropping the second order terms of dynamics.
-
+Date: July 27, 2025
 '''
 #!/usr/bin/env python
 

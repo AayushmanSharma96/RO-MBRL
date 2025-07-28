@@ -1,8 +1,7 @@
 '''
-copyright @ Karthikeya S Parunandi - karthikeyasharma91@gmail.com
-Python class for linearized system identification through MujoCo simulator
+copyright @ Aayushman Sharma - aayushmansharma@tamu.edu
 
-Date: July 5, 2019
+Date: July 27, 2025
 '''
 #!/usr/bin/env python
 

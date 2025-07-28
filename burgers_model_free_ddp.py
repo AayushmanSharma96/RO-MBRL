@@ -1,8 +1,7 @@
 '''
-copyright @ Karthikeya S Parunandi - karthikeyasharma91@gmail.com
-Model free DDP method with a 6-link fish experiment in MuJoCo simulator.
+copyright @ Aayushman Sharma - aayushmansharma@tamu.edu
 
-Date: July 6, 2019
+Date: July 27, 2025
 '''
 #!/usr/bin/env python
 

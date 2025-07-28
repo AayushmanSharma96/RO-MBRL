@@ -1,6 +1,7 @@
 '''
-Inverted pendulum parameters
+copyright @ Aayushman Sharma - aayushmansharma@tamu.edu
 
+Date: July 27, 2025
 '''
 import numpy as np
 
