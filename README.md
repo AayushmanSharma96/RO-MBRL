@@ -23,8 +23,8 @@ We propose **RO‑MBRL**, an algorithm that couples Proper Orthogonal Decomp
 
 ## 📚 Paper
 > A. Sharma & S. Chakravorty,  
-> **“A Reduced‑Order Iterative Linear Quadratic Regulator (iLQR) Technique for the Optimal Control of Nonlinear Partial Differential Equations.”**  
-> arXiv 2501.06635 (2025).
+> **“A Reduced‑Order Iterative Linear Quadratic Regulator (ILQR) Technique for the Optimal Control of Nonlinear Partial Differential Equations.”**  
+> 2023 American Control Conference (ACC), San Diego, CA, USA, 2023, pp. 3389-3394, doi: 10.23919/ACC55779.2023.10156062.
 
 ## 📝 Citation
 If you use this code, please cite:
