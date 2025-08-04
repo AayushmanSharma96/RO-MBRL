@@ -7,7 +7,7 @@ This repo contains the official implementation of
 **“A Reduced‑Order Iterative Linear Quadratic Regulator (iLQR) Technique for the Optimal Control of Nonlinear Partial Differential Equations.”**  
 ([[arXiv 2501.06635](https://arxiv.org/pdf/2501.06635)])
 
-We propose **RO‑MBRL**, an algorithm that couples Proper Orthogonal Decomposition (POD) with online Linear‑Time‑Varying identification and model‑based RL (data-driven ILQR) to control high‑dimensional nonlinear PDEs sample‑efficiently.
+We propose **RO‑ILQR**, an algorithm that couples Proper Orthogonal Decomposition (POD) with online Linear‑Time‑Varying identification and model‑based RL (data-driven ILQR) to control high‑dimensional nonlinear PDEs sample‑efficiently.
 
 ---
 
